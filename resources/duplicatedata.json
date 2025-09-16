@@ -1,4 +1,1923 @@
 {
+    "1886518665965971004": [
+        "HUD Anim/001.Health Empty/001-00-000.png",
+        "HUD Anim/005.Health Appear/005-00-019.png",
+        "HUD Anim/005.Health Appear/005-01-022.png",
+        "HUD Anim/212.Health Appear Blank/212-03-258.png"
+    ],
+    "7417782376010900860": [
+        "HUD Anim/002.Health Idle/002-00-009.png",
+        "HUD Anim/002.Health Idle/002-01-009.png",
+        "HUD Anim/002.Health Idle/002-02-009.png",
+        "HUD Anim/002.Health Idle/002-03-009.png",
+        "HUD Anim/002.Health Idle/002-04-009.png",
+        "HUD Anim/002.Health Idle/002-05-009.png",
+        "HUD Anim/002.Health Idle/002-06-009.png",
+        "HUD Anim/002.Health Idle/002-07-009.png",
+        "HUD Anim/002.Health Idle/002-08-009.png",
+        "HUD Anim/002.Health Idle/002-09-009.png",
+        "HUD Anim/002.Health Idle/002-10-009.png",
+        "HUD Anim/002.Health Idle/002-11-009.png",
+        "HUD Anim/002.Health Idle/002-12-009.png",
+        "HUD Anim/002.Health Idle/002-13-009.png",
+        "HUD Anim/002.Health Idle/002-14-009.png",
+        "HUD Anim/002.Health Idle/002-15-009.png",
+        "HUD Anim/002.Health Idle/002-16-009.png",
+        "HUD Anim/002.Health Idle/002-17-009.png",
+        "HUD Anim/002.Health Idle/002-18-009.png",
+        "HUD Anim/002.Health Idle/002-19-009.png",
+        "HUD Anim/002.Health Idle/002-20-009.png",
+        "HUD Anim/002.Health Idle/002-21-009.png",
+        "HUD Anim/002.Health Idle/002-22-009.png",
+        "HUD Anim/002.Health Idle/002-23-009.png",
+        "HUD Anim/002.Health Idle/002-24-009.png",
+        "HUD Anim/002.Health Idle/002-25-009.png",
+        "HUD Anim/002.Health Idle/002-26-009.png",
+        "HUD Anim/002.Health Idle/002-27-009.png",
+        "HUD Anim/002.Health Idle/002-28-009.png",
+        "HUD Anim/002.Health Idle/002-29-009.png",
+        "HUD Anim/002.Health Idle/002-30-009.png",
+        "HUD Anim/002.Health Idle/002-31-009.png",
+        "HUD Anim/002.Health Idle/002-32-009.png",
+        "HUD Anim/002.Health Idle/002-33-009.png",
+        "HUD Anim/002.Health Idle/002-34-009.png",
+        "HUD Anim/002.Health Idle/002-35-009.png",
+        "HUD Anim/002.Health Idle/002-36-009.png",
+        "HUD Anim/002.Health Idle/002-37-009.png",
+        "HUD Anim/002.Health Idle/002-38-009.png",
+        "HUD Anim/002.Health Idle/002-39-009.png"
+    ],
+    "-9042156486454469916": [
+        "HUD Anim/004.Health Refill/004-00-003.png",
+        "HUD Anim/004.Health Refill/004-01-006.png"
+    ],
+    "-716880572132287406": [
+        "HUD Anim/006.Health Max Up/006-00-039.png",
+        "HUD Anim/006.Health Max Up/006-06-025.png",
+        "HUD Anim/006.Health Max Up/006-09-027.png"
+    ],
+    "-1280435665278441948": [
+        "HUD Anim/006.Health Max Up/006-01-030.png",
+        "HUD Anim/006.Health Max Up/006-07-024.png",
+        "HUD Anim/006.Health Max Up/006-10-031.png"
+    ],
+    "2255500204560711146": [
+        "HUD Anim/006.Health Max Up/006-08-042.png",
+        "HUD Anim/006.Health Max Up/006-11-041.png"
+    ],
+    "2039465008120149930": [
+        "HUD Anim/008.Blue Idle/008-00-302.png",
+        "HUD Anim/224.Blue Idle Level 2/224-01-302.png",
+        "HUD Anim/226.Blue Idle Level 3/226-01-302.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-02-302.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-03-302.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-01-302.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-03-302.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-00-302.png"
+    ],
+    "1092361938171401923": [
+        "HUD Anim/008.Blue Idle/008-01-303.png",
+        "HUD Anim/224.Blue Idle Level 2/224-02-303.png",
+        "HUD Anim/226.Blue Idle Level 3/226-02-303.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-01-303.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-02-303.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-00-303.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-01-303.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-02-303.png"
+    ],
+    "-5141768723453827225": [
+        "HUD Anim/008.Blue Idle/008-02-304.png",
+        "HUD Anim/224.Blue Idle Level 2/224-03-304.png",
+        "HUD Anim/226.Blue Idle Level 3/226-03-304.png",
+        "HUD Anim/226.Blue Idle Level 3/226-15-304.png",
+        "HUD Anim/227.Blue Idle variant1/227-00-304.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-00-304.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-03-304.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-16-304.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-32-304.png"
+    ],
+    "8277157419344880559": [
+        "HUD Anim/008.Blue Idle/008-03-305.png",
+        "HUD Anim/224.Blue Idle Level 2/224-04-305.png",
+        "HUD Anim/224.Blue Idle Level 2/224-68-305.png",
+        "HUD Anim/226.Blue Idle Level 3/226-04-305.png",
+        "HUD Anim/226.Blue Idle Level 3/226-16-305.png",
+        "HUD Anim/227.Blue Idle variant1/227-03-305.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-62-305.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-66-305.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-64-305.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-04-305.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-15-305.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-02-305.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-31-305.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-03-305.png"
+    ],
+    "-3014576976023743603": [
+        "HUD Anim/008.Blue Idle/008-04-306.png",
+        "HUD Anim/224.Blue Idle Level 2/224-05-306.png",
+        "HUD Anim/224.Blue Idle Level 2/224-69-306.png",
+        "HUD Anim/226.Blue Idle Level 3/226-05-306.png",
+        "HUD Anim/226.Blue Idle Level 3/226-17-306.png",
+        "HUD Anim/227.Blue Idle variant1/227-04-306.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-63-306.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-03-306.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-67-306.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-05-306.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-17-306.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-33-306.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-21-306.png"
+    ],
+    "-8335748716217303824": [
+        "HUD Anim/008.Blue Idle/008-05-307.png",
+        "HUD Anim/224.Blue Idle Level 2/224-06-307.png",
+        "HUD Anim/224.Blue Idle Level 2/224-70-307.png",
+        "HUD Anim/226.Blue Idle Level 3/226-06-307.png",
+        "HUD Anim/226.Blue Idle Level 3/226-18-307.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-64-307.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-04-307.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-68-307.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-06-307.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-65-307.png"
+    ],
+    "3454895109553142324": [
+        "HUD Anim/008.Blue Idle/008-06-310.png",
+        "HUD Anim/224.Blue Idle Level 2/224-09-310.png",
+        "HUD Anim/224.Blue Idle Level 2/224-67-310.png",
+        "HUD Anim/226.Blue Idle Level 3/226-09-310.png",
+        "HUD Anim/226.Blue Idle Level 3/226-21-310.png",
+        "HUD Anim/230.Blue Idle variant3/230-06-310.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-05-310.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-61-310.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-66-310.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-06-310.png"
+    ],
+    "-7354153990546599198": [
+        "HUD Anim/008.Blue Idle/008-07-056.png",
+        "HUD Anim/224.Blue Idle Level 2/224-18-056.png",
+        "HUD Anim/227.Blue Idle variant1/227-05-056.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-22-056.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-21-056.png"
+    ],
+    "4357941387999011963": [
+        "HUD Anim/008.Blue Idle/008-08-057.png",
+        "HUD Anim/008.Blue Idle/008-14-054.png",
+        "HUD Anim/008.Blue Idle/008-15-054.png",
+        "HUD Anim/008.Blue Idle/008-16-054.png",
+        "HUD Anim/008.Blue Idle/008-17-054.png",
+        "HUD Anim/008.Blue Idle/008-18-054.png",
+        "HUD Anim/008.Blue Idle/008-19-054.png",
+        "HUD Anim/008.Blue Idle/008-20-054.png",
+        "HUD Anim/008.Blue Idle/008-21-054.png",
+        "HUD Anim/008.Blue Idle/008-22-054.png",
+        "HUD Anim/008.Blue Idle/008-23-054.png",
+        "HUD Anim/008.Blue Idle/008-24-054.png",
+        "HUD Anim/008.Blue Idle/008-25-054.png",
+        "HUD Anim/008.Blue Idle/008-26-054.png",
+        "HUD Anim/008.Blue Idle/008-27-054.png",
+        "HUD Anim/008.Blue Idle/008-28-054.png",
+        "HUD Anim/008.Blue Idle/008-29-054.png",
+        "HUD Anim/008.Blue Idle/008-30-054.png",
+        "HUD Anim/008.Blue Idle/008-31-054.png",
+        "HUD Anim/008.Blue Idle/008-32-054.png",
+        "HUD Anim/008.Blue Idle/008-33-054.png",
+        "HUD Anim/008.Blue Idle/008-34-054.png",
+        "HUD Anim/008.Blue Idle/008-35-054.png",
+        "HUD Anim/008.Blue Idle/008-36-054.png",
+        "HUD Anim/008.Blue Idle/008-37-054.png",
+        "HUD Anim/008.Blue Idle/008-38-054.png",
+        "HUD Anim/008.Blue Idle/008-39-054.png",
+        "HUD Anim/008.Blue Idle/008-40-054.png",
+        "HUD Anim/008.Blue Idle/008-41-054.png",
+        "HUD Anim/008.Blue Idle/008-42-054.png",
+        "HUD Anim/008.Blue Idle/008-43-054.png",
+        "HUD Anim/008.Blue Idle/008-44-046.png",
+        "HUD Anim/008.Blue Idle/008-45-062.png",
+        "HUD Anim/008.Blue Idle/008-46-060.png",
+        "HUD Anim/008.Blue Idle/008-47-051.png",
+        "HUD Anim/008.Blue Idle/008-48-053.png",
+        "HUD Anim/008.Blue Idle/008-56-069.png",
+        "HUD Anim/008.Blue Idle/008-57-050.png",
+        "HUD Anim/008.Blue Idle/008-58-050.png",
+        "HUD Anim/008.Blue Idle/008-59-050.png",
+        "HUD Anim/008.Blue Idle/008-60-050.png",
+        "HUD Anim/008.Blue Idle/008-61-050.png",
+        "HUD Anim/008.Blue Idle/008-62-050.png",
+        "HUD Anim/008.Blue Idle/008-63-050.png",
+        "HUD Anim/008.Blue Idle/008-64-050.png",
+        "HUD Anim/008.Blue Idle/008-65-050.png",
+        "HUD Anim/008.Blue Idle/008-66-050.png",
+        "HUD Anim/008.Blue Idle/008-67-050.png",
+        "HUD Anim/008.Blue Idle/008-68-050.png",
+        "HUD Anim/008.Blue Idle/008-69-050.png",
+        "HUD Anim/008.Blue Idle/008-70-050.png",
+        "HUD Anim/008.Blue Idle/008-71-050.png",
+        "HUD Anim/008.Blue Idle/008-72-050.png",
+        "HUD Anim/008.Blue Idle/008-73-050.png",
+        "HUD Anim/008.Blue Idle/008-74-050.png",
+        "HUD Anim/008.Blue Idle/008-75-050.png",
+        "HUD Anim/008.Blue Idle/008-76-050.png",
+        "HUD Anim/008.Blue Idle/008-77-050.png",
+        "HUD Anim/008.Blue Idle/008-78-050.png",
+        "HUD Anim/008.Blue Idle/008-79-050.png",
+        "HUD Anim/008.Blue Idle/008-80-050.png",
+        "HUD Anim/008.Blue Idle/008-81-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-10-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-11-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-12-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-13-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-14-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-15-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-16-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-17-057.png",
+        "HUD Anim/224.Blue Idle Level 2/224-24-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-25-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-26-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-27-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-28-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-29-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-30-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-31-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-32-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-33-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-34-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-35-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-36-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-37-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-38-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-39-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-40-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-41-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-42-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-43-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-44-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-45-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-46-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-47-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-48-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-49-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-50-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-51-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-52-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-53-054.png",
+        "HUD Anim/224.Blue Idle Level 2/224-54-046.png",
+        "HUD Anim/224.Blue Idle Level 2/224-55-062.png",
+        "HUD Anim/224.Blue Idle Level 2/224-56-060.png",
+        "HUD Anim/224.Blue Idle Level 2/224-57-051.png",
+        "HUD Anim/224.Blue Idle Level 2/224-58-053.png",
+        "HUD Anim/224.Blue Idle Level 2/224-66-069.png",
+        "HUD Anim/224.Blue Idle Level 2/224-73-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-74-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-75-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-76-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-77-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-78-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-79-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-80-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-81-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-82-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-83-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-84-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-85-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-86-050.png",
+        "HUD Anim/224.Blue Idle Level 2/224-87-050.png",
+        "HUD Anim/226.Blue Idle Level 3/226-10-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-11-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-12-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-13-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-14-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-22-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-23-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-24-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-25-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-26-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-27-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-28-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-29-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-30-057.png",
+        "HUD Anim/226.Blue Idle Level 3/226-31-057.png",
+        "HUD Anim/227.Blue Idle variant1/227-06-057.png",
+        "HUD Anim/227.Blue Idle variant1/227-12-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-13-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-14-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-15-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-16-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-17-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-18-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-19-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-20-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-21-054.png",
+        "HUD Anim/227.Blue Idle variant1/227-22-046.png",
+        "HUD Anim/227.Blue Idle variant1/227-23-062.png",
+        "HUD Anim/227.Blue Idle variant1/227-24-060.png",
+        "HUD Anim/227.Blue Idle variant1/227-25-051.png",
+        "HUD Anim/227.Blue Idle variant1/227-26-053.png",
+        "HUD Anim/227.Blue Idle variant1/227-34-069.png",
+        "HUD Anim/227.Blue Idle variant1/227-35-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-36-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-37-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-38-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-39-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-40-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-41-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-42-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-43-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-44-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-45-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-46-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-47-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-48-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-49-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-50-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-51-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-52-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-53-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-54-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-55-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-56-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-57-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-58-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-59-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-60-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-61-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-62-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-63-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-64-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-65-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-66-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-67-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-68-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-69-050.png",
+        "HUD Anim/227.Blue Idle variant1/227-75-057.png",
+        "HUD Anim/228.Blue Idle variant2/228-12-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-13-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-14-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-15-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-16-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-17-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-18-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-19-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-20-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-21-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-22-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-23-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-24-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-25-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-26-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-27-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-28-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-29-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-30-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-31-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-32-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-33-054.png",
+        "HUD Anim/228.Blue Idle variant2/228-34-046.png",
+        "HUD Anim/228.Blue Idle variant2/228-35-062.png",
+        "HUD Anim/228.Blue Idle variant2/228-36-060.png",
+        "HUD Anim/228.Blue Idle variant2/228-37-051.png",
+        "HUD Anim/228.Blue Idle variant2/228-38-053.png",
+        "HUD Anim/228.Blue Idle variant2/228-44-069.png",
+        "HUD Anim/228.Blue Idle variant2/228-46-057.png",
+        "HUD Anim/228.Blue Idle variant2/228-47-050.png",
+        "HUD Anim/228.Blue Idle variant2/228-48-050.png",
+        "HUD Anim/228.Blue Idle variant2/228-49-050.png",
+        "HUD Anim/228.Blue Idle variant2/228-50-050.png",
+        "HUD Anim/228.Blue Idle variant2/228-51-050.png",
+        "HUD Anim/228.Blue Idle variant2/228-57-057.png",
+        "HUD Anim/230.Blue Idle variant3/230-07-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-08-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-09-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-10-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-11-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-12-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-13-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-14-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-15-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-16-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-17-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-18-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-19-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-20-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-21-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-22-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-23-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-24-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-25-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-26-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-27-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-28-054.png",
+        "HUD Anim/230.Blue Idle variant3/230-29-046.png",
+        "HUD Anim/230.Blue Idle variant3/230-30-062.png",
+        "HUD Anim/230.Blue Idle variant3/230-31-060.png",
+        "HUD Anim/230.Blue Idle variant3/230-32-051.png",
+        "HUD Anim/230.Blue Idle variant3/230-33-053.png",
+        "HUD Anim/230.Blue Idle variant3/230-39-069.png",
+        "HUD Anim/230.Blue Idle variant3/230-41-057.png",
+        "HUD Anim/230.Blue Idle variant3/230-42-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-43-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-44-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-45-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-46-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-47-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-48-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-49-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-50-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-51-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-52-050.png",
+        "HUD Anim/230.Blue Idle variant3/230-58-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-07-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-08-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-09-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-10-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-11-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-12-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-13-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-14-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-15-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-16-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-17-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-18-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-19-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-20-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-21-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-28-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-29-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-30-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-31-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-32-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-33-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-34-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-35-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-36-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-37-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-38-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-39-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-40-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-41-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-42-057.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-43-046.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-44-062.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-45-060.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-46-051.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-47-053.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-55-069.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-56-069.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-57-069.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-58-069.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-59-069.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-67-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-68-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-69-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-70-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-71-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-72-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-73-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-74-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-75-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-76-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-77-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-78-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-79-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-80-050.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-81-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-06-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-07-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-08-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-09-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-10-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-11-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-12-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-13-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-14-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-15-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-16-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-17-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-18-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-19-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-20-057.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-27-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-28-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-29-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-30-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-31-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-32-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-33-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-34-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-35-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-36-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-37-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-38-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-39-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-40-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-41-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-42-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-43-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-44-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-45-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-46-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-47-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-48-054.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-49-046.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-50-062.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-51-060.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-52-051.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-53-053.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-61-069.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-71-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-72-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-73-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-74-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-75-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-76-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-77-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-78-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-79-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-80-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-81-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-82-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-83-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-84-050.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-85-050.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-07-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-08-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-09-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-10-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-11-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-12-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-13-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-14-057.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-15-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-16-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-17-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-18-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-19-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-20-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-21-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-22-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-23-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-24-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-25-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-26-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-27-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-28-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-29-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-30-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-31-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-32-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-33-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-34-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-35-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-36-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-37-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-38-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-39-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-40-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-41-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-42-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-43-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-44-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-45-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-46-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-47-054.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-48-046.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-49-062.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-50-060.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-51-051.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-52-053.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-60-069.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-68-050.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-69-050.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-70-050.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-71-050.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-07-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-08-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-09-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-10-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-11-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-12-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-13-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-14-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-20-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-21-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-22-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-23-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-24-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-25-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-26-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-27-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-28-057.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-29-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-10-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-11-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-12-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-13-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-14-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-15-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-16-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-17-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-18-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-19-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-20-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-21-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-22-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-23-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-24-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-36-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-37-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-38-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-39-057.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-40-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-08-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-09-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-10-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-11-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-12-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-13-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-14-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-15-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-16-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-24-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-25-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-26-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-27-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-28-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-29-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-30-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-31-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-32-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-40-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-41-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-42-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-43-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-44-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-45-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-46-057.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-47-057.png"
+    ],
+    "-7012597095413515673": [
+        "HUD Anim/008.Blue Idle/008-09-063.png",
+        "HUD Anim/224.Blue Idle Level 2/224-19-063.png",
+        "HUD Anim/227.Blue Idle variant1/227-07-063.png",
+        "HUD Anim/228.Blue Idle variant2/228-07-063.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-23-063.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-22-063.png"
+    ],
+    "-9096739567094731321": [
+        "HUD Anim/008.Blue Idle/008-10-067.png",
+        "HUD Anim/224.Blue Idle Level 2/224-20-067.png",
+        "HUD Anim/227.Blue Idle variant1/227-08-067.png",
+        "HUD Anim/228.Blue Idle variant2/228-08-067.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-24-067.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-23-067.png"
+    ],
+    "2732825830667891204": [
+        "HUD Anim/008.Blue Idle/008-11-055.png",
+        "HUD Anim/224.Blue Idle Level 2/224-21-055.png",
+        "HUD Anim/227.Blue Idle variant1/227-09-055.png",
+        "HUD Anim/228.Blue Idle variant2/228-09-055.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-25-055.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-24-055.png"
+    ],
+    "-2579789631505472535": [
+        "HUD Anim/008.Blue Idle/008-12-068.png",
+        "HUD Anim/224.Blue Idle Level 2/224-22-068.png",
+        "HUD Anim/227.Blue Idle variant1/227-10-068.png",
+        "HUD Anim/228.Blue Idle variant2/228-10-068.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-26-068.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-25-068.png"
+    ],
+    "-4635266269485405554": [
+        "HUD Anim/008.Blue Idle/008-13-065.png",
+        "HUD Anim/224.Blue Idle Level 2/224-23-065.png",
+        "HUD Anim/227.Blue Idle variant1/227-11-065.png",
+        "HUD Anim/228.Blue Idle variant2/228-11-065.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-27-065.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-26-065.png"
+    ],
+    "971115195430092775": [
+        "HUD Anim/008.Blue Idle/008-49-048.png",
+        "HUD Anim/224.Blue Idle Level 2/224-59-048.png",
+        "HUD Anim/227.Blue Idle variant1/227-27-048.png",
+        "HUD Anim/228.Blue Idle variant2/228-43-048.png",
+        "HUD Anim/230.Blue Idle variant3/230-38-048.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-48-048.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-54-048.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-53-048.png"
+    ],
+    "4322719316243987802": [
+        "HUD Anim/008.Blue Idle/008-50-058.png",
+        "HUD Anim/224.Blue Idle Level 2/224-60-058.png",
+        "HUD Anim/227.Blue Idle variant1/227-28-058.png",
+        "HUD Anim/228.Blue Idle variant2/228-45-058.png",
+        "HUD Anim/230.Blue Idle variant3/230-40-058.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-49-058.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-55-058.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-54-058.png"
+    ],
+    "-7495340049418997283": [
+        "HUD Anim/008.Blue Idle/008-51-052.png",
+        "HUD Anim/224.Blue Idle Level 2/224-61-052.png",
+        "HUD Anim/227.Blue Idle variant1/227-29-052.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-50-052.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-56-052.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-55-052.png"
+    ],
+    "-7702935213373399431": [
+        "HUD Anim/008.Blue Idle/008-52-047.png",
+        "HUD Anim/224.Blue Idle Level 2/224-62-047.png",
+        "HUD Anim/227.Blue Idle variant1/227-30-047.png",
+        "HUD Anim/228.Blue Idle variant2/228-39-047.png",
+        "HUD Anim/230.Blue Idle variant3/230-34-047.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-51-047.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-57-047.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-56-047.png"
+    ],
+    "-8279336573439153025": [
+        "HUD Anim/008.Blue Idle/008-53-043.png",
+        "HUD Anim/224.Blue Idle Level 2/224-63-043.png",
+        "HUD Anim/227.Blue Idle variant1/227-31-043.png",
+        "HUD Anim/228.Blue Idle variant2/228-40-043.png",
+        "HUD Anim/230.Blue Idle variant3/230-35-043.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-52-043.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-58-043.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-57-043.png"
+    ],
+    "9103338652471700929": [
+        "HUD Anim/008.Blue Idle/008-54-045.png",
+        "HUD Anim/224.Blue Idle Level 2/224-64-045.png",
+        "HUD Anim/227.Blue Idle variant1/227-32-045.png",
+        "HUD Anim/228.Blue Idle variant2/228-41-045.png",
+        "HUD Anim/230.Blue Idle variant3/230-36-045.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-53-045.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-59-045.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-58-045.png"
+    ],
+    "-7248541960787547241": [
+        "HUD Anim/008.Blue Idle/008-55-066.png",
+        "HUD Anim/224.Blue Idle Level 2/224-65-066.png",
+        "HUD Anim/227.Blue Idle variant1/227-33-066.png",
+        "HUD Anim/228.Blue Idle variant2/228-42-066.png",
+        "HUD Anim/230.Blue Idle variant3/230-37-066.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-54-066.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-60-066.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-59-066.png"
+    ],
+    "-2147299551368171494": [
+        "HUD Anim/008.Blue Idle/008-82-061.png",
+        "HUD Anim/224.Blue Idle Level 2/224-88-061.png",
+        "HUD Anim/227.Blue Idle variant1/227-70-061.png",
+        "HUD Anim/228.Blue Idle variant2/228-52-061.png",
+        "HUD Anim/230.Blue Idle variant3/230-53-061.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-82-061.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-86-061.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-72-061.png"
+    ],
+    "-8709023551289229950": [
+        "HUD Anim/008.Blue Idle/008-83-064.png",
+        "HUD Anim/224.Blue Idle Level 2/224-89-064.png",
+        "HUD Anim/227.Blue Idle variant1/227-71-064.png",
+        "HUD Anim/228.Blue Idle variant2/228-53-064.png",
+        "HUD Anim/230.Blue Idle variant3/230-54-064.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-83-064.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-87-064.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-73-064.png"
+    ],
+    "8101414105526305333": [
+        "HUD Anim/008.Blue Idle/008-84-049.png",
+        "HUD Anim/224.Blue Idle Level 2/224-90-049.png",
+        "HUD Anim/227.Blue Idle variant1/227-72-049.png",
+        "HUD Anim/228.Blue Idle variant2/228-54-049.png",
+        "HUD Anim/230.Blue Idle variant3/230-55-049.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-84-049.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-88-049.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-74-049.png"
+    ],
+    "-2991000902628291425": [
+        "HUD Anim/008.Blue Idle/008-85-044.png",
+        "HUD Anim/224.Blue Idle Level 2/224-91-044.png",
+        "HUD Anim/227.Blue Idle variant1/227-73-044.png",
+        "HUD Anim/228.Blue Idle variant2/228-55-044.png",
+        "HUD Anim/230.Blue Idle variant3/230-56-044.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-85-044.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-89-044.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-75-044.png"
+    ],
+    "-5844790753408192095": [
+        "HUD Anim/008.Blue Idle/008-86-059.png",
+        "HUD Anim/224.Blue Idle Level 2/224-92-059.png",
+        "HUD Anim/227.Blue Idle variant1/227-74-059.png",
+        "HUD Anim/228.Blue Idle variant2/228-56-059.png",
+        "HUD Anim/230.Blue Idle variant3/230-57-059.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-86-059.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-90-059.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-76-059.png"
+    ],
+    "3662906763889708967": [
+        "HUD Anim/009.Blue Break/009-00-073.png",
+        "HUD Anim/011.Blue Break Fast/011-00-073.png"
+    ],
+    "-3160282597310420455": [
+        "HUD Anim/009.Blue Break/009-01-076.png",
+        "HUD Anim/011.Blue Break Fast/011-01-076.png"
+    ],
+    "4589659579649492611": [
+        "HUD Anim/009.Blue Break/009-02-077.png",
+        "HUD Anim/011.Blue Break Fast/011-02-077.png"
+    ],
+    "5202592007574224164": [
+        "HUD Anim/009.Blue Break/009-03-075.png",
+        "HUD Anim/011.Blue Break Fast/011-03-075.png"
+    ],
+    "4692284518608552106": [
+        "HUD Anim/009.Blue Break/009-04-074.png",
+        "HUD Anim/011.Blue Break Fast/011-04-074.png"
+    ],
+    "-8293168784378722652": [
+        "HUD Anim/012.Coin Appear/012-00-091.png",
+        "HUD Anim/015.Coin Break/015-05-111.png",
+        "HUD Anim/023.Cap Extend End/023-02-184.png",
+        "HUD Anim/028.Spool Extender Appear/028-00-407.png",
+        "HUD Anim/063.SilkChunk Down1/063-04-365.png",
+        "HUD Anim/064.SilkChunk Down2/064-04-365.png",
+        "HUD Anim/065.SilkChunk Down3/065-04-365.png",
+        "HUD Anim/069.Shard Appear/069-00-091.png",
+        "HUD Anim/073.Coin Disappear/073-04-091.png",
+        "HUD Anim/074.Shard Disappear/074-05-091.png",
+        "HUD Anim/141.SilkChunk Down Acid1/141-02-365.png",
+        "HUD Anim/142.SilkChunk Down Acid2/142-02-365.png",
+        "HUD Anim/143.SilkChunk Down Acid3/143-02-365.png",
+        "HUD Anim/159.Spool Extender Disappear/159-06-407.png",
+        "HUD Anim/160.Cap Appear/160-00-411.png"
+    ],
+    "-8451105626226353270": [
+        "HUD Anim/012.Coin Appear/012-01-090.png",
+        "HUD Anim/073.Coin Disappear/073-03-090.png"
+    ],
+    "-5425993807469828079": [
+        "HUD Anim/012.Coin Appear/012-02-089.png",
+        "HUD Anim/073.Coin Disappear/073-02-089.png"
+    ],
+    "3578353728750318306": [
+        "HUD Anim/012.Coin Appear/012-03-087.png",
+        "HUD Anim/073.Coin Disappear/073-01-087.png"
+    ],
+    "-7094493725655865068": [
+        "HUD Anim/012.Coin Appear/012-04-088.png",
+        "HUD Anim/013.Coin Idle/013-00-088.png",
+        "HUD Anim/014.Coin Get/014-03-088.png",
+        "HUD Anim/016.Coin Get Loop/016-03-088.png",
+        "HUD Anim/073.Coin Disappear/073-00-088.png"
+    ],
+    "5638560032053524641": [
+        "HUD Anim/014.Coin Get/014-00-093.png",
+        "HUD Anim/016.Coin Get Loop/016-00-093.png"
+    ],
+    "-846528501052071167": [
+        "HUD Anim/014.Coin Get/014-01-094.png",
+        "HUD Anim/016.Coin Get Loop/016-01-094.png"
+    ],
+    "7768525350509628140": [
+        "HUD Anim/014.Coin Get/014-02-092.png",
+        "HUD Anim/016.Coin Get Loop/016-02-092.png"
+    ],
+    "-4716874479331683542": [
+        "HUD Anim/017.Soul Burst/017-00-026.png",
+        "HUD Anim/189.Soul Burst Q/189-00-026.png"
+    ],
+    "925083184768779167": [
+        "HUD Anim/017.Soul Burst/017-01-035.png",
+        "HUD Anim/189.Soul Burst Q/189-01-035.png"
+    ],
+    "-4633657767377639677": [
+        "HUD Anim/017.Soul Burst/017-02-028.png",
+        "HUD Anim/189.Soul Burst Q/189-02-028.png"
+    ],
+    "-726899715935463534": [
+        "HUD Anim/017.Soul Burst/017-03-038.png",
+        "HUD Anim/189.Soul Burst Q/189-03-038.png"
+    ],
+    "-2034204226889950126": [
+        "HUD Anim/017.Soul Burst/017-04-037.png",
+        "HUD Anim/189.Soul Burst Q/189-04-037.png"
+    ],
+    "-2260192724278618703": [
+        "HUD Anim/018.HUD Frame/018-00-587.png",
+        "HUD Anim/209.HUD Frame Cloakless Appear/209-00-114.png"
+    ],
+    "788756442621861122": [
+        "HUD Anim/018.HUD Frame/018-01-588.png",
+        "HUD Anim/209.HUD Frame Cloakless Appear/209-01-115.png"
+    ],
+    "1404245696481613854": [
+        "HUD Anim/018.HUD Frame/018-05-592.png",
+        "HUD Anim/050.HUD Frame Idle/050-00-592.png"
+    ],
+    "7649849631155380925": [
+        "HUD Anim/019.Soul Orb Glow/019-00-127.png",
+        "HUD Anim/061.SilkChunk Up2/061-02-127.png",
+        "HUD Anim/084.SilkChunk UpToGlow2/084-02-127.png"
+    ],
+    "-7564309490597775032": [
+        "HUD Anim/019.Soul Orb Glow/019-02-128.png",
+        "HUD Anim/019.Soul Orb Glow/019-04-138.png",
+        "HUD Anim/019.Soul Orb Glow/019-20-132.png",
+        "HUD Anim/060.SilkChunk Up1/060-03-132.png",
+        "HUD Anim/061.SilkChunk Up2/061-03-128.png",
+        "HUD Anim/062.SilkChunk Up3/062-03-138.png",
+        "HUD Anim/083.SilkChunk UpToGlow1/083-03-132.png",
+        "HUD Anim/084.SilkChunk UpToGlow2/084-03-128.png",
+        "HUD Anim/085.SilkChunk UpToGlow3/085-03-138.png",
+        "HUD Anim/135.SilkChunk Moss Transform/135-03-132.png",
+        "HUD Anim/141.SilkChunk Down Acid1/141-00-132.png",
+        "HUD Anim/142.SilkChunk Down Acid2/142-00-128.png",
+        "HUD Anim/143.SilkChunk Down Acid3/143-00-138.png"
+    ],
+    "-1671158495545162191": [
+        "HUD Anim/019.Soul Orb Glow/019-05-130.png",
+        "HUD Anim/060.SilkChunk Up1/060-01-130.png",
+        "HUD Anim/083.SilkChunk UpToGlow1/083-01-130.png"
+    ],
+    "-1774991851917796786": [
+        "HUD Anim/019.Soul Orb Glow/019-06-148.png",
+        "HUD Anim/070.Shard Get/070-00-148.png",
+        "HUD Anim/071.Shard Get Loop/071-00-148.png"
+    ],
+    "-4330030080760725504": [
+        "HUD Anim/019.Soul Orb Glow/019-07-143.png",
+        "HUD Anim/060.SilkChunk Up1/060-00-143.png",
+        "HUD Anim/083.SilkChunk UpToGlow1/083-00-143.png",
+        "HUD Anim/087.SilkChunk Temp Get/087-00-143.png"
+    ],
+    "-8877466793249118564": [
+        "HUD Anim/019.Soul Orb Glow/019-08-139.png",
+        "HUD Anim/019.Soul Orb Glow/019-11-144.png",
+        "HUD Anim/019.Soul Orb Glow/019-19-124.png",
+        "HUD Anim/060.SilkChunk Up1/060-04-124.png",
+        "HUD Anim/061.SilkChunk Up2/061-04-144.png",
+        "HUD Anim/062.SilkChunk Up3/062-04-139.png",
+        "HUD Anim/080.SilkChunk Glow 1/080-00-124.png",
+        "HUD Anim/081.SilkChunk Glow 2/081-00-144.png",
+        "HUD Anim/082.SilkChunk Glow 3/082-00-139.png",
+        "HUD Anim/083.SilkChunk UpToGlow1/083-04-124.png",
+        "HUD Anim/084.SilkChunk UpToGlow2/084-04-144.png",
+        "HUD Anim/085.SilkChunk UpToGlow3/085-04-139.png",
+        "HUD Anim/086.SilkChunk Temp Use/086-00-124.png",
+        "HUD Anim/135.SilkChunk Moss Transform/135-04-124.png",
+        "HUD Anim/141.SilkChunk Down Acid1/141-01-124.png",
+        "HUD Anim/142.SilkChunk Down Acid2/142-01-144.png",
+        "HUD Anim/143.SilkChunk Down Acid3/143-01-139.png",
+        "HUD Anim/144.SilkChunk Acid Use/144-02-124.png"
+    ],
+    "-283775706060556037": [
+        "HUD Anim/019.Soul Orb Glow/019-09-136.png",
+        "HUD Anim/062.SilkChunk Up3/062-01-136.png",
+        "HUD Anim/085.SilkChunk UpToGlow3/085-01-136.png"
+    ],
+    "-4421580915579857977": [
+        "HUD Anim/019.Soul Orb Glow/019-10-134.png",
+        "HUD Anim/024.Silk Chunk Extend/024-09-134.png",
+        "HUD Anim/061.SilkChunk Up2/061-05-134.png",
+        "HUD Anim/078.SilkChunk Idle 2/078-00-134.png"
+    ],
+    "-3384209101134646008": [
+        "HUD Anim/019.Soul Orb Glow/019-12-129.png",
+        "HUD Anim/061.SilkChunk Up2/061-00-129.png",
+        "HUD Anim/084.SilkChunk UpToGlow2/084-00-129.png",
+        "HUD Anim/087.SilkChunk Temp Get/087-02-129.png"
+    ],
+    "-6744742233228025581": [
+        "HUD Anim/019.Soul Orb Glow/019-13-146.png",
+        "HUD Anim/069.Shard Appear/069-01-146.png",
+        "HUD Anim/074.Shard Disappear/074-04-146.png"
+    ],
+    "-2850713782842649855": [
+        "HUD Anim/019.Soul Orb Glow/019-14-142.png",
+        "HUD Anim/062.SilkChunk Up3/062-05-142.png",
+        "HUD Anim/079.SilkChunk Idle 3/079-00-142.png",
+        "HUD Anim/139.SilkChunk Pilgrim Step 3/139-05-142.png"
+    ],
+    "-5810238135326310883": [
+        "HUD Anim/019.Soul Orb Glow/019-15-140.png",
+        "HUD Anim/161.Cap Idle/161-00-140.png",
+        "HUD Anim/223.Cap Evolve/223-00-295.png"
+    ],
+    "4529998322748480737": [
+        "HUD Anim/019.Soul Orb Glow/019-16-126.png",
+        "HUD Anim/061.SilkChunk Up2/061-01-126.png",
+        "HUD Anim/084.SilkChunk UpToGlow2/084-01-126.png"
+    ],
+    "2142708908518661259": [
+        "HUD Anim/019.Soul Orb Glow/019-17-125.png",
+        "HUD Anim/025.SilkChunk Idle 1/025-00-125.png",
+        "HUD Anim/060.SilkChunk Up1/060-05-125.png",
+        "HUD Anim/086.SilkChunk Temp Use/086-01-125.png",
+        "HUD Anim/135.SilkChunk Moss Transform/135-05-125.png"
+    ],
+    "-7441556203503419610": [
+        "HUD Anim/019.Soul Orb Glow/019-18-149.png",
+        "HUD Anim/069.Shard Appear/069-05-149.png",
+        "HUD Anim/070.Shard Get/070-02-149.png",
+        "HUD Anim/071.Shard Get Loop/071-02-149.png",
+        "HUD Anim/072.Shard Idle/072-00-149.png",
+        "HUD Anim/074.Shard Disappear/074-00-149.png"
+    ],
+    "2826516155655832383": [
+        "HUD Anim/019.Soul Orb Glow/019-21-147.png",
+        "HUD Anim/069.Shard Appear/069-04-147.png",
+        "HUD Anim/074.Shard Disappear/074-01-147.png"
+    ],
+    "2198740961428680227": [
+        "HUD Anim/019.Soul Orb Glow/019-22-135.png",
+        "HUD Anim/062.SilkChunk Up3/062-00-135.png",
+        "HUD Anim/085.SilkChunk UpToGlow3/085-00-135.png",
+        "HUD Anim/087.SilkChunk Temp Get/087-01-135.png"
+    ],
+    "-588260133906435217": [
+        "HUD Anim/019.Soul Orb Glow/019-23-131.png",
+        "HUD Anim/060.SilkChunk Up1/060-02-131.png",
+        "HUD Anim/083.SilkChunk UpToGlow1/083-02-131.png"
+    ],
+    "3270919906857427060": [
+        "HUD Anim/019.Soul Orb Glow/019-24-137.png",
+        "HUD Anim/062.SilkChunk Up3/062-02-137.png",
+        "HUD Anim/085.SilkChunk UpToGlow3/085-02-137.png"
+    ],
+    "898364625066790021": [
+        "HUD Anim/019.Soul Orb Glow/019-25-145.png",
+        "HUD Anim/069.Shard Appear/069-02-145.png",
+        "HUD Anim/074.Shard Disappear/074-03-145.png"
+    ],
+    "-838513492459371058": [
+        "HUD Anim/021.Fractured Mask Appear/021-00-164.png",
+        "HUD Anim/077.Fractured Mask Disappear/077-04-164.png"
+    ],
+    "-328441009771149123": [
+        "HUD Anim/021.Fractured Mask Appear/021-01-156.png",
+        "HUD Anim/077.Fractured Mask Disappear/077-03-156.png"
+    ],
+    "964312220590450040": [
+        "HUD Anim/021.Fractured Mask Appear/021-02-157.png",
+        "HUD Anim/077.Fractured Mask Disappear/077-02-157.png"
+    ],
+    "-2220567915415842561": [
+        "HUD Anim/021.Fractured Mask Appear/021-03-153.png",
+        "HUD Anim/077.Fractured Mask Disappear/077-01-153.png"
+    ],
+    "5856225172304813841": [
+        "HUD Anim/021.Fractured Mask Appear/021-04-162.png",
+        "HUD Anim/076.Fractured Mask Shine/076-03-162.png",
+        "HUD Anim/077.Fractured Mask Disappear/077-00-162.png"
+    ],
+    "-6778508830268174784": [
+        "HUD Anim/028.Spool Extender Appear/028-01-419.png",
+        "HUD Anim/159.Spool Extender Disappear/159-05-419.png"
+    ],
+    "1803843822002187619": [
+        "HUD Anim/028.Spool Extender Appear/028-02-391.png",
+        "HUD Anim/159.Spool Extender Disappear/159-04-391.png"
+    ],
+    "4587425976621432226": [
+        "HUD Anim/028.Spool Extender Appear/028-03-415.png",
+        "HUD Anim/159.Spool Extender Disappear/159-03-415.png"
+    ],
+    "-1469564957461677687": [
+        "HUD Anim/028.Spool Extender Appear/028-05-406.png",
+        "HUD Anim/028.Spool Extender Appear/028-06-406.png"
+    ],
+    "9212826125053889330": [
+        "HUD Anim/028.Spool Extender Appear/028-07-417.png",
+        "HUD Anim/159.Spool Extender Disappear/159-02-417.png"
+    ],
+    "7819833831831190203": [
+        "HUD Anim/028.Spool Extender Appear/028-09-408.png",
+        "HUD Anim/159.Spool Extender Disappear/159-01-408.png"
+    ],
+    "-7845955176618348928": [
+        "HUD Anim/028.Spool Extender Appear/028-10-405.png",
+        "HUD Anim/159.Spool Extender Disappear/159-00-405.png"
+    ],
+    "6291234201374972633": [
+        "HUD Anim/029.Reserve Bind Appear/029-00-424.png",
+        "HUD Anim/162.Reserve Bind Disappear/162-02-424.png"
+    ],
+    "3867899389181329224": [
+        "HUD Anim/029.Reserve Bind Appear/029-01-431.png",
+        "HUD Anim/162.Reserve Bind Disappear/162-01-431.png"
+    ],
+    "-2479152991615938794": [
+        "HUD Anim/029.Reserve Bind Appear/029-02-427.png",
+        "HUD Anim/162.Reserve Bind Disappear/162-00-427.png"
+    ],
+    "-3070140162917554058": [
+        "HUD Anim/029.Reserve Bind Appear/029-05-425.png",
+        "HUD Anim/164.Reserve Bind Restore/164-02-425.png",
+        "HUD Anim/165.Reserve Bind Full/165-00-425.png"
+    ],
+    "-6172364184871143639": [
+        "HUD Anim/030.Warrior Health Halo/030-02-467.png",
+        "HUD Anim/190.Warrior Health Halo End/190-00-467.png"
+    ],
+    "3604821305288152447": [
+        "HUD Anim/034.Hive Health Idle/034-00-194.png",
+        "HUD Anim/034.Hive Health Idle/034-01-194.png",
+        "HUD Anim/034.Hive Health Idle/034-02-194.png",
+        "HUD Anim/034.Hive Health Idle/034-03-194.png",
+        "HUD Anim/034.Hive Health Idle/034-04-194.png",
+        "HUD Anim/034.Hive Health Idle/034-05-194.png",
+        "HUD Anim/034.Hive Health Idle/034-06-194.png",
+        "HUD Anim/034.Hive Health Idle/034-07-194.png",
+        "HUD Anim/034.Hive Health Idle/034-08-194.png",
+        "HUD Anim/034.Hive Health Idle/034-09-194.png",
+        "HUD Anim/034.Hive Health Idle/034-10-194.png",
+        "HUD Anim/034.Hive Health Idle/034-11-194.png",
+        "HUD Anim/034.Hive Health Idle/034-12-194.png",
+        "HUD Anim/034.Hive Health Idle/034-13-194.png",
+        "HUD Anim/034.Hive Health Idle/034-14-194.png",
+        "HUD Anim/034.Hive Health Idle/034-15-194.png",
+        "HUD Anim/034.Hive Health Idle/034-16-194.png",
+        "HUD Anim/034.Hive Health Idle/034-17-194.png",
+        "HUD Anim/034.Hive Health Idle/034-18-194.png",
+        "HUD Anim/034.Hive Health Idle/034-19-194.png",
+        "HUD Anim/034.Hive Health Idle/034-20-194.png",
+        "HUD Anim/034.Hive Health Idle/034-21-194.png",
+        "HUD Anim/034.Hive Health Idle/034-22-194.png",
+        "HUD Anim/034.Hive Health Idle/034-23-194.png",
+        "HUD Anim/034.Hive Health Idle/034-24-194.png",
+        "HUD Anim/034.Hive Health Idle/034-25-194.png",
+        "HUD Anim/034.Hive Health Idle/034-26-194.png",
+        "HUD Anim/034.Hive Health Idle/034-27-194.png",
+        "HUD Anim/034.Hive Health Idle/034-28-194.png",
+        "HUD Anim/034.Hive Health Idle/034-29-194.png",
+        "HUD Anim/034.Hive Health Idle/034-30-194.png",
+        "HUD Anim/034.Hive Health Idle/034-31-194.png",
+        "HUD Anim/034.Hive Health Idle/034-32-194.png",
+        "HUD Anim/034.Hive Health Idle/034-33-194.png",
+        "HUD Anim/034.Hive Health Idle/034-34-194.png",
+        "HUD Anim/034.Hive Health Idle/034-35-194.png",
+        "HUD Anim/034.Hive Health Idle/034-36-194.png",
+        "HUD Anim/034.Hive Health Idle/034-37-194.png",
+        "HUD Anim/034.Hive Health Idle/034-38-194.png",
+        "HUD Anim/034.Hive Health Idle/034-39-194.png"
+    ],
+    "655650900464276372": [
+        "HUD Anim/035.Hive Health Break/035-00-211.png",
+        "HUD Anim/036.Hive Health Recover1/036-00-211.png"
+    ],
+    "-9108727793133120633": [
+        "HUD Anim/035.Hive Health Break/035-01-208.png",
+        "HUD Anim/036.Hive Health Recover1/036-01-208.png"
+    ],
+    "5841589336807297519": [
+        "HUD Anim/038.Hive Health Refill/038-00-202.png",
+        "HUD Anim/041.Hive Health Appear/041-00-202.png"
+    ],
+    "-4146306418809388530": [
+        "HUD Anim/038.Hive Health Refill/038-01-204.png",
+        "HUD Anim/041.Hive Health Appear/041-01-204.png"
+    ],
+    "-8943035443177587046": [
+        "HUD Anim/038.Hive Health Refill/038-02-206.png",
+        "HUD Anim/041.Hive Health Appear/041-02-206.png"
+    ],
+    "-7592776176249848274": [
+        "HUD Anim/038.Hive Health Refill/038-03-207.png",
+        "HUD Anim/041.Hive Health Appear/041-03-207.png"
+    ],
+    "1890614068442825209": [
+        "HUD Anim/038.Hive Health Refill/038-04-190.png",
+        "HUD Anim/041.Hive Health Appear/041-04-190.png"
+    ],
+    "-4436654639097773709": [
+        "HUD Anim/042.Hive Health Appear B/042-00-231.png",
+        "HUD Anim/047.Hive Health Refill B/047-00-231.png"
+    ],
+    "6718299629690944291": [
+        "HUD Anim/042.Hive Health Appear B/042-01-219.png",
+        "HUD Anim/047.Hive Health Refill B/047-01-219.png"
+    ],
+    "-5945409323930610059": [
+        "HUD Anim/042.Hive Health Appear B/042-02-233.png",
+        "HUD Anim/047.Hive Health Refill B/047-02-233.png"
+    ],
+    "2260854321203110257": [
+        "HUD Anim/042.Hive Health Appear B/042-03-227.png",
+        "HUD Anim/047.Hive Health Refill B/047-03-227.png"
+    ],
+    "-9218220061319304582": [
+        "HUD Anim/042.Hive Health Appear B/042-04-230.png",
+        "HUD Anim/047.Hive Health Refill B/047-04-230.png"
+    ],
+    "3317840142377367846": [
+        "HUD Anim/044.Hive Health Idle B/044-00-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-01-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-02-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-03-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-04-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-05-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-06-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-07-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-08-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-09-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-10-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-11-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-12-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-13-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-14-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-15-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-16-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-17-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-18-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-19-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-20-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-21-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-22-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-23-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-24-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-25-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-26-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-27-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-28-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-29-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-30-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-31-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-32-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-33-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-34-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-35-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-36-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-37-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-38-232.png",
+        "HUD Anim/044.Hive Health Idle B/044-39-232.png"
+    ],
+    "1984774779928913120": [
+        "HUD Anim/045.Hive Health Recover1 B/045-00-291.png",
+        "HUD Anim/045.Hive Health Recover1 B/045-01-291.png"
+    ],
+    "3668531884785974326": [
+        "HUD Anim/058.Bind Orb Up/058-00-268.png",
+        "HUD Anim/059.Bind Orb Down/059-03-268.png",
+        "HUD Anim/092.Bind Orb Up Weak/092-00-275.png",
+        "HUD Anim/093.Bind Orb Down Weak/093-03-275.png"
+    ],
+    "-30942260808801242": [
+        "HUD Anim/058.Bind Orb Up/058-01-271.png",
+        "HUD Anim/059.Bind Orb Down/059-02-271.png",
+        "HUD Anim/092.Bind Orb Up Weak/092-01-276.png",
+        "HUD Anim/093.Bind Orb Down Weak/093-02-276.png",
+        "HUD Anim/094.Bind Orb Weak to Full/094-00-271.png",
+        "HUD Anim/097.Bind Orb Full to Weak/097-02-271.png"
+    ],
+    "5937437737595245900": [
+        "HUD Anim/058.Bind Orb Up/058-02-267.png",
+        "HUD Anim/059.Bind Orb Down/059-01-267.png",
+        "HUD Anim/094.Bind Orb Weak to Full/094-01-267.png",
+        "HUD Anim/097.Bind Orb Full to Weak/097-01-267.png"
+    ],
+    "-4457280890183730396": [
+        "HUD Anim/058.Bind Orb Up/058-03-269.png",
+        "HUD Anim/059.Bind Orb Down/059-00-269.png",
+        "HUD Anim/094.Bind Orb Weak to Full/094-02-269.png",
+        "HUD Anim/097.Bind Orb Full to Weak/097-00-269.png"
+    ],
+    "1713303137268158732": [
+        "HUD Anim/058.Bind Orb Up/058-04-270.png",
+        "HUD Anim/094.Bind Orb Weak to Full/094-03-270.png"
+    ],
+    "6728458766201265452": [
+        "HUD Anim/058.Bind Orb Up/058-05-266.png",
+        "HUD Anim/094.Bind Orb Weak to Full/094-04-266.png"
+    ],
+    "3861719578016649666": [
+        "HUD Anim/063.SilkChunk Down1/063-00-366.png",
+        "HUD Anim/064.SilkChunk Down2/064-00-366.png",
+        "HUD Anim/065.SilkChunk Down3/065-00-366.png"
+    ],
+    "9045268281763135880": [
+        "HUD Anim/063.SilkChunk Down1/063-01-368.png",
+        "HUD Anim/064.SilkChunk Down2/064-01-368.png",
+        "HUD Anim/065.SilkChunk Down3/065-01-368.png"
+    ],
+    "-3735614256769703018": [
+        "HUD Anim/063.SilkChunk Down1/063-02-367.png",
+        "HUD Anim/064.SilkChunk Down2/064-02-367.png",
+        "HUD Anim/065.SilkChunk Down3/065-02-367.png"
+    ],
+    "1030746710698266353": [
+        "HUD Anim/063.SilkChunk Down1/063-03-364.png",
+        "HUD Anim/064.SilkChunk Down2/064-03-364.png",
+        "HUD Anim/065.SilkChunk Down3/065-03-364.png"
+    ],
+    "6118438951395585044": [
+        "HUD Anim/069.Shard Appear/069-03-272.png",
+        "HUD Anim/070.Shard Get/070-01-272.png",
+        "HUD Anim/071.Shard Get Loop/071-01-272.png",
+        "HUD Anim/074.Shard Disappear/074-02-272.png"
+    ],
+    "8777699189407430931": [
+        "HUD Anim/075.Fractured Mask Break/075-02-158.png",
+        "HUD Anim/075.Fractured Mask Break/075-03-158.png"
+    ],
+    "-5062638820451989477": [
+        "HUD Anim/089.Spool Cursed Bob/089-00-286.png",
+        "HUD Anim/151.Spool Cursed Bobbing/151-00-286.png",
+        "HUD Anim/198.Spool Cursed Appear/198-06-286.png"
+    ],
+    "-7880311172159847091": [
+        "HUD Anim/089.Spool Cursed Bob/089-01-287.png",
+        "HUD Anim/151.Spool Cursed Bobbing/151-01-287.png",
+        "HUD Anim/198.Spool Cursed Appear/198-07-287.png"
+    ],
+    "-7113500602531190740": [
+        "HUD Anim/089.Spool Cursed Bob/089-02-288.png",
+        "HUD Anim/090.Spool Cursed/090-00-288.png",
+        "HUD Anim/151.Spool Cursed Bobbing/151-02-288.png",
+        "HUD Anim/198.Spool Cursed Appear/198-08-288.png"
+    ],
+    "6860823941656733167": [
+        "HUD Anim/092.Bind Orb Up Weak/092-02-274.png",
+        "HUD Anim/093.Bind Orb Down Weak/093-01-274.png"
+    ],
+    "-919660001737874281": [
+        "HUD Anim/092.Bind Orb Up Weak/092-03-260.png",
+        "HUD Anim/093.Bind Orb Down Weak/093-00-260.png"
+    ],
+    "-4077176853471581557": [
+        "HUD Anim/092.Bind Orb Up Weak/092-04-262.png",
+        "HUD Anim/097.Bind Orb Full to Weak/097-03-262.png"
+    ],
+    "5513243431566896358": [
+        "HUD Anim/095.Bind Orb Weak Frame Appear/095-00-264.png",
+        "HUD Anim/096.Bind Orb Weak Frame Disappear/096-02-264.png"
+    ],
+    "3063218126771596082": [
+        "HUD Anim/095.Bind Orb Weak Frame Appear/095-01-265.png",
+        "HUD Anim/096.Bind Orb Weak Frame Disappear/096-01-265.png"
+    ],
+    "5910133770091014067": [
+        "HUD Anim/095.Bind Orb Weak Frame Appear/095-02-273.png",
+        "HUD Anim/096.Bind Orb Weak Frame Disappear/096-00-273.png"
+    ],
+    "-3189840238895212502": [
+        "HUD Anim/098.HUD Frame Warrior/098-00-608.png",
+        "HUD Anim/104.HUD Frame Warrior End/104-03-608.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-02-608.png"
+    ],
+    "449876471324742658": [
+        "HUD Anim/098.HUD Frame Warrior/098-01-609.png",
+        "HUD Anim/104.HUD Frame Warrior End/104-02-609.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-03-609.png"
+    ],
+    "-3659790950218107219": [
+        "HUD Anim/098.HUD Frame Warrior/098-02-610.png",
+        "HUD Anim/104.HUD Frame Warrior End/104-01-610.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-04-610.png"
+    ],
+    "5510562268228390387": [
+        "HUD Anim/098.HUD Frame Warrior/098-03-611.png",
+        "HUD Anim/098.HUD Frame Warrior/098-04-612.png",
+        "HUD Anim/099.HUD Frame Warrior Idle/099-00-612.png",
+        "HUD Anim/104.HUD Frame Warrior End/104-00-611.png",
+        "HUD Anim/122.HUD Frame Warrior Idle Down/122-03-612.png",
+        "HUD Anim/126.HUD Frame Warrior Idle Hit/126-03-612.png",
+        "HUD Anim/132.HUD Frame Warrior Rage End/132-02-612.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-05-611.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-06-612.png"
+    ],
+    "-2889848023637701865": [
+        "HUD Anim/100.HUD Frame Warrior Meter 1 Up/100-00-614.png",
+        "HUD Anim/122.HUD Frame Warrior Idle Down/122-01-614.png",
+        "HUD Anim/126.HUD Frame Warrior Idle Hit/126-01-614.png"
+    ],
+    "2546594565884611062": [
+        "HUD Anim/100.HUD Frame Warrior Meter 1 Up/100-01-615.png",
+        "HUD Anim/118.HUD Frame Warrior Meter 1 Down/118-01-615.png",
+        "HUD Anim/122.HUD Frame Warrior Idle Down/122-00-615.png",
+        "HUD Anim/122.HUD Frame Warrior Idle Down/122-02-615.png",
+        "HUD Anim/126.HUD Frame Warrior Idle Hit/126-00-615.png",
+        "HUD Anim/126.HUD Frame Warrior Idle Hit/126-02-615.png",
+        "HUD Anim/127.HUD Frame Warrior Meter 1 Hit/127-03-615.png"
+    ],
+    "9020720273330270813": [
+        "HUD Anim/101.HUD Frame Warrior Meter 2 Up/101-00-616.png",
+        "HUD Anim/118.HUD Frame Warrior Meter 1 Down/118-00-616.png",
+        "HUD Anim/127.HUD Frame Warrior Meter 1 Hit/127-01-616.png"
+    ],
+    "896354097000363140": [
+        "HUD Anim/101.HUD Frame Warrior Meter 2 Up/101-01-617.png",
+        "HUD Anim/119.HUD Frame Warrior Meter 2 Down/119-01-617.png",
+        "HUD Anim/127.HUD Frame Warrior Meter 1 Hit/127-00-617.png",
+        "HUD Anim/127.HUD Frame Warrior Meter 1 Hit/127-02-617.png",
+        "HUD Anim/128.HUD Frame Warrior Meter 2 Hit/128-03-617.png"
+    ],
+    "-4275840379172712880": [
+        "HUD Anim/102.HUD Frame Warrior Meter 3 Up/102-00-618.png",
+        "HUD Anim/119.HUD Frame Warrior Meter 2 Down/119-00-618.png",
+        "HUD Anim/128.HUD Frame Warrior Meter 2 Hit/128-01-618.png"
+    ],
+    "-7025134970533415556": [
+        "HUD Anim/102.HUD Frame Warrior Meter 3 Up/102-01-619.png",
+        "HUD Anim/103.HUD Frame Warrior Rage/103-00-619.png",
+        "HUD Anim/103.HUD Frame Warrior Rage/103-01-619.png",
+        "HUD Anim/120.HUD Frame Warrior Meter 3 Down/120-02-619.png",
+        "HUD Anim/128.HUD Frame Warrior Meter 2 Hit/128-00-619.png",
+        "HUD Anim/128.HUD Frame Warrior Meter 2 Hit/128-02-619.png",
+        "HUD Anim/129.HUD Frame Warrior Meter 3 Hit/129-03-619.png",
+        "HUD Anim/132.HUD Frame Warrior Rage End/132-01-619.png"
+    ],
+    "3479047681944392287": [
+        "HUD Anim/105.HUD Frame Reaper/105-00-634.png",
+        "HUD Anim/107.HUD Frame Reaper End/107-02-634.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-02-634.png"
+    ],
+    "7778142112542053171": [
+        "HUD Anim/105.HUD Frame Reaper/105-01-635.png",
+        "HUD Anim/107.HUD Frame Reaper End/107-01-635.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-03-635.png"
+    ],
+    "1903912158459457268": [
+        "HUD Anim/105.HUD Frame Reaper/105-02-636.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-04-636.png"
+    ],
+    "-7688594482159461578": [
+        "HUD Anim/105.HUD Frame Reaper/105-03-637.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-05-637.png"
+    ],
+    "4210238170754109945": [
+        "HUD Anim/105.HUD Frame Reaper/105-04-638.png",
+        "HUD Anim/105.HUD Frame Reaper/105-05-639.png",
+        "HUD Anim/106.HUD Frame Reaper Idle/106-00-639.png",
+        "HUD Anim/107.HUD Frame Reaper End/107-00-639.png",
+        "HUD Anim/131.HUD Frame Reaper Mode End/131-02-639.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-06-638.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-07-639.png"
+    ],
+    "-1534206347870071716": [
+        "HUD Anim/109.HUD Frame Wanderer Idle/109-00-598.png",
+        "HUD Anim/167.HUD Frame Wanderer Appear/167-05-598.png",
+        "HUD Anim/183.HUD Frame Wanderer Full End/183-03-598.png",
+        "HUD Anim/211.HUD Frame Wanderer/211-03-598.png"
+    ],
+    "3272756049814178390": [
+        "HUD Anim/110.HUD Frame Wanderer End/110-00-597.png",
+        "HUD Anim/167.HUD Frame Wanderer Appear/167-04-597.png",
+        "HUD Anim/211.HUD Frame Wanderer/211-02-597.png"
+    ],
+    "-9008004329616019513": [
+        "HUD Anim/110.HUD Frame Wanderer End/110-01-596.png",
+        "HUD Anim/167.HUD Frame Wanderer Appear/167-03-596.png",
+        "HUD Anim/211.HUD Frame Wanderer/211-01-596.png"
+    ],
+    "-5358024193601777226": [
+        "HUD Anim/110.HUD Frame Wanderer End/110-02-595.png",
+        "HUD Anim/167.HUD Frame Wanderer Appear/167-02-595.png",
+        "HUD Anim/211.HUD Frame Wanderer/211-00-595.png"
+    ],
+    "3873147848425259718": [
+        "HUD Anim/117.HUD Frame Warrior Meter 4 Up/117-00-620.png",
+        "HUD Anim/120.HUD Frame Warrior Meter 3 Down/120-00-620.png",
+        "HUD Anim/129.HUD Frame Warrior Meter 3 Hit/129-01-620.png",
+        "HUD Anim/132.HUD Frame Warrior Rage End/132-00-620.png"
+    ],
+    "-2353542164069698442": [
+        "HUD Anim/117.HUD Frame Warrior Meter 4 Up/117-01-621.png",
+        "HUD Anim/120.HUD Frame Warrior Meter 3 Down/120-01-621.png",
+        "HUD Anim/121.HUD Frame Warrior Meter 4 Down/121-00-621.png",
+        "HUD Anim/129.HUD Frame Warrior Meter 3 Hit/129-00-621.png",
+        "HUD Anim/129.HUD Frame Warrior Meter 3 Hit/129-02-621.png"
+    ],
+    "2007201705246266176": [
+        "HUD Anim/123.HUD Frame Witch/123-00-529.png",
+        "HUD Anim/125.HUD Frame Witch End/125-05-529.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-02-529.png"
+    ],
+    "6538824305216407204": [
+        "HUD Anim/123.HUD Frame Witch/123-01-530.png",
+        "HUD Anim/125.HUD Frame Witch End/125-04-530.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-03-530.png"
+    ],
+    "-1766508484088629699": [
+        "HUD Anim/123.HUD Frame Witch/123-02-531.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-04-531.png"
+    ],
+    "8472584846074152910": [
+        "HUD Anim/123.HUD Frame Witch/123-03-532.png",
+        "HUD Anim/125.HUD Frame Witch End/125-03-532.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-05-532.png"
+    ],
+    "-4484692901840873896": [
+        "HUD Anim/123.HUD Frame Witch/123-04-533.png",
+        "HUD Anim/125.HUD Frame Witch End/125-02-533.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-06-533.png"
+    ],
+    "812683880877731229": [
+        "HUD Anim/123.HUD Frame Witch/123-05-534.png",
+        "HUD Anim/123.HUD Frame Witch/123-06-535.png",
+        "HUD Anim/124.HUD Frame Witch Idle/124-00-535.png",
+        "HUD Anim/125.HUD Frame Witch End/125-01-534.png",
+        "HUD Anim/153.HUD Frame Witch Wiggle Loop/153-01-535.png",
+        "HUD Anim/154.HUD Frame Witch Wiggle/154-02-535.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-07-534.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-08-535.png"
+    ],
+    "3591957280747924233": [
+        "HUD Anim/125.HUD Frame Witch End/125-00-536.png",
+        "HUD Anim/153.HUD Frame Witch Wiggle Loop/153-02-536.png",
+        "HUD Anim/154.HUD Frame Witch Wiggle/154-00-536.png"
+    ],
+    "-7362530888246957810": [
+        "HUD Anim/136.SilkChunk Pilgrim Step 1/136-00-342.png",
+        "HUD Anim/218.SilkChunk Pilgrim Disperse/218-02-342.png"
+    ],
+    "-774977295771845406": [
+        "HUD Anim/136.SilkChunk Pilgrim Step 1/136-01-343.png",
+        "HUD Anim/218.SilkChunk Pilgrim Disperse/218-01-343.png"
+    ],
+    "7140319216684841530": [
+        "HUD Anim/136.SilkChunk Pilgrim Step 1/136-03-345.png",
+        "HUD Anim/218.SilkChunk Pilgrim Disperse/218-00-345.png"
+    ],
+    "2842187284258590587": [
+        "HUD Anim/139.SilkChunk Pilgrim Step 3/139-03-358.png",
+        "HUD Anim/144.SilkChunk Acid Use/144-00-358.png"
+    ],
+    "-7149212311931347770": [
+        "HUD Anim/139.SilkChunk Pilgrim Step 3/139-04-359.png",
+        "HUD Anim/144.SilkChunk Acid Use/144-01-359.png"
+    ],
+    "5973694614274971631": [
+        "HUD Anim/145.Health Cursed Full Bind/145-07-376.png",
+        "HUD Anim/146.Health Cursed Empty Bind/146-06-376.png",
+        "HUD Anim/147.Health Cursed Idle/147-02-376.png"
+    ],
+    "3775879032381261203": [
+        "HUD Anim/145.Health Cursed Full Bind/145-08-377.png",
+        "HUD Anim/146.Health Cursed Empty Bind/146-07-377.png",
+        "HUD Anim/147.Health Cursed Idle/147-00-377.png"
+    ],
+    "5082667338134845715": [
+        "HUD Anim/145.Health Cursed Full Bind/145-09-378.png",
+        "HUD Anim/146.Health Cursed Empty Bind/146-08-378.png",
+        "HUD Anim/147.Health Cursed Idle/147-01-378.png"
+    ],
+    "-7406944199984875146": [
+        "HUD Anim/148.Cursed Orb Twitch/148-00-388.png",
+        "HUD Anim/148.Cursed Orb Twitch/148-01-387.png",
+        "HUD Anim/152.Cursed Orb Twitching/152-00-388.png",
+        "HUD Anim/152.Cursed Orb Twitching/152-01-387.png"
+    ],
+    "-8506623259425357345": [
+        "HUD Anim/148.Cursed Orb Twitch/148-02-386.png",
+        "HUD Anim/149.Cursed Orb Idle/149-00-386.png",
+        "HUD Anim/152.Cursed Orb Twitching/152-02-386.png"
+    ],
+    "-972713086961631565": [
+        "HUD Anim/153.HUD Frame Witch Wiggle Loop/153-00-537.png",
+        "HUD Anim/154.HUD Frame Witch Wiggle/154-01-537.png"
+    ],
+    "-939929510370080605": [
+        "HUD Anim/155.HUD Frame Toolmaster/155-00-574.png",
+        "HUD Anim/157.HUD Frame Toolmaster End/157-03-574.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-02-574.png"
+    ],
+    "-64565405892257389": [
+        "HUD Anim/155.HUD Frame Toolmaster/155-01-575.png",
+        "HUD Anim/157.HUD Frame Toolmaster End/157-02-575.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-03-575.png"
+    ],
+    "-4852896295896044123": [
+        "HUD Anim/155.HUD Frame Toolmaster/155-02-576.png",
+        "HUD Anim/157.HUD Frame Toolmaster End/157-01-576.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-04-576.png"
+    ],
+    "-7567536661920078291": [
+        "HUD Anim/155.HUD Frame Toolmaster/155-03-577.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-05-577.png"
+    ],
+    "-3328094220322095307": [
+        "HUD Anim/155.HUD Frame Toolmaster/155-04-579.png",
+        "HUD Anim/158.HUD Frame Toolmaster Spin/158-00-579.png",
+        "HUD Anim/158.HUD Frame Toolmaster Spin/158-06-579.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-06-579.png"
+    ],
+    "-2739172616288882033": [
+        "HUD Anim/155.HUD Frame Toolmaster/155-05-578.png",
+        "HUD Anim/156.HUD Frame Toolmaster Idle/156-00-578.png",
+        "HUD Anim/158.HUD Frame Toolmaster Spin/158-05-578.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-07-578.png"
+    ],
+    "8357070992732961725": [
+        "HUD Anim/157.HUD Frame Toolmaster End/157-00-584.png",
+        "HUD Anim/158.HUD Frame Toolmaster Spin/158-03-584.png"
+    ],
+    "-1217245926089813299": [
+        "HUD Anim/163.Reserve Bind Use/163-00-426.png",
+        "HUD Anim/164.Reserve Bind Restore/164-01-426.png"
+    ],
+    "4497861434388240455": [
+        "HUD Anim/163.Reserve Bind Use/163-01-430.png",
+        "HUD Anim/164.Reserve Bind Restore/164-00-430.png"
+    ],
+    "60329887099113471": [
+        "HUD Anim/163.Reserve Bind Use/163-02-422.png",
+        "HUD Anim/166.Reserve Bind Empty/166-00-422.png"
+    ],
+    "1383563285777374576": [
+        "HUD Anim/167.HUD Frame Wanderer Appear/167-00-593.png",
+        "HUD Anim/200.HUD Frame Hunter v2 Appear/200-00-538.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-00-548.png",
+        "HUD Anim/202.HUD Frame Reaper Appear/202-00-632.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-00-561.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-00-572.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-00-606.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-00-527.png"
+    ],
+    "-2358424009036188531": [
+        "HUD Anim/167.HUD Frame Wanderer Appear/167-01-594.png",
+        "HUD Anim/200.HUD Frame Hunter v2 Appear/200-01-539.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-01-549.png",
+        "HUD Anim/204.HUD Frame Toolmaster Appear/204-01-573.png",
+        "HUD Anim/205.HUD Frame Warrior Appear/205-01-607.png",
+        "HUD Anim/206.HUD Frame Witch Appear/206-01-528.png"
+    ],
+    "-2596124003146693181": [
+        "HUD Anim/168.HUD Frame Wanderer Full/168-00-601.png",
+        "HUD Anim/183.HUD Frame Wanderer Full End/183-02-601.png"
+    ],
+    "5213905782330154842": [
+        "HUD Anim/168.HUD Frame Wanderer Full/168-01-602.png",
+        "HUD Anim/183.HUD Frame Wanderer Full End/183-01-602.png"
+    ],
+    "3510022528872064888": [
+        "HUD Anim/168.HUD Frame Wanderer Full/168-02-603.png",
+        "HUD Anim/183.HUD Frame Wanderer Full End/183-00-603.png"
+    ],
+    "-2234070800700146699": [
+        "HUD Anim/169.HUD Frame FWitch/169-00-626.png",
+        "HUD Anim/170.HUD Frame FWitch End/170-02-626.png",
+        "HUD Anim/199.HUD Frame FWitch Appear/199-02-626.png"
+    ],
+    "-6846271678686043653": [
+        "HUD Anim/169.HUD Frame FWitch/169-01-627.png",
+        "HUD Anim/170.HUD Frame FWitch End/170-01-627.png",
+        "HUD Anim/199.HUD Frame FWitch Appear/199-03-627.png"
+    ],
+    "349537530147834156": [
+        "HUD Anim/169.HUD Frame FWitch/169-02-628.png",
+        "HUD Anim/170.HUD Frame FWitch End/170-00-628.png",
+        "HUD Anim/199.HUD Frame FWitch Appear/199-04-628.png"
+    ],
+    "6107089209126405536": [
+        "HUD Anim/169.HUD Frame FWitch/169-03-629.png",
+        "HUD Anim/172.HUD Frame FWitch Wiggle/172-00-629.png",
+        "HUD Anim/173.HUD Frame FWitch Wiggle Loop/173-00-629.png",
+        "HUD Anim/199.HUD Frame FWitch Appear/199-05-629.png"
+    ],
+    "2876399447019763173": [
+        "HUD Anim/169.HUD Frame FWitch/169-04-630.png",
+        "HUD Anim/172.HUD Frame FWitch Wiggle/172-01-630.png",
+        "HUD Anim/173.HUD Frame FWitch Wiggle Loop/173-01-630.png",
+        "HUD Anim/199.HUD Frame FWitch Appear/199-06-630.png"
+    ],
+    "-1998813680196752478": [
+        "HUD Anim/169.HUD Frame FWitch/169-05-631.png",
+        "HUD Anim/171.HUD Frame FWitch Idle/171-00-631.png",
+        "HUD Anim/172.HUD Frame FWitch Wiggle/172-02-631.png",
+        "HUD Anim/173.HUD Frame FWitch Wiggle Loop/173-02-631.png",
+        "HUD Anim/199.HUD Frame FWitch Appear/199-07-631.png"
+    ],
+    "-195621445676774909": [
+        "HUD Anim/174.HUD Frame Hunter v2/174-00-540.png",
+        "HUD Anim/176.HUD Frame Hunter v2 End/176-02-540.png",
+        "HUD Anim/200.HUD Frame Hunter v2 Appear/200-02-540.png"
+    ],
+    "-5041175180586033346": [
+        "HUD Anim/174.HUD Frame Hunter v2/174-01-541.png",
+        "HUD Anim/176.HUD Frame Hunter v2 End/176-01-541.png",
+        "HUD Anim/200.HUD Frame Hunter v2 Appear/200-03-541.png"
+    ],
+    "8286096613610495391": [
+        "HUD Anim/174.HUD Frame Hunter v2/174-03-543.png",
+        "HUD Anim/200.HUD Frame Hunter v2 Appear/200-04-543.png"
+    ],
+    "399459601534388016": [
+        "HUD Anim/174.HUD Frame Hunter v2/174-04-544.png",
+        "HUD Anim/175.HUD Frame Hunter v2 Idle/175-00-544.png",
+        "HUD Anim/176.HUD Frame Hunter v2 End/176-00-544.png",
+        "HUD Anim/200.HUD Frame Hunter v2 Appear/200-05-544.png"
+    ],
+    "7169608347378554115": [
+        "HUD Anim/177.HUD Frame Hunter v3/177-00-550.png",
+        "HUD Anim/179.HUD Frame Hunter v3 End/179-02-550.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-02-550.png"
+    ],
+    "-5321771420776534198": [
+        "HUD Anim/177.HUD Frame Hunter v3/177-01-551.png",
+        "HUD Anim/179.HUD Frame Hunter v3 End/179-01-551.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-03-551.png"
+    ],
+    "5245141578797726315": [
+        "HUD Anim/177.HUD Frame Hunter v3/177-02-552.png",
+        "HUD Anim/179.HUD Frame Hunter v3 End/179-00-552.png",
+        "HUD Anim/193.HUD Frame Hunter v3 Full Extra/193-00-552.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-04-552.png"
+    ],
+    "8368501738333334847": [
+        "HUD Anim/177.HUD Frame Hunter v3/177-03-553.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-05-553.png"
+    ],
+    "7955608952957904542": [
+        "HUD Anim/177.HUD Frame Hunter v3/177-04-554.png",
+        "HUD Anim/178.HUD Frame Hunter v3 Idle/178-00-554.png",
+        "HUD Anim/201.HUD Frame Hunter v3 Appear/201-06-554.png"
+    ],
+    "9022917970270933280": [
+        "HUD Anim/185.HUD Frame Spell/185-00-563.png",
+        "HUD Anim/187.HUD Frame Spell End/187-04-563.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-02-563.png"
+    ],
+    "8193265503888619940": [
+        "HUD Anim/185.HUD Frame Spell/185-01-564.png",
+        "HUD Anim/187.HUD Frame Spell End/187-03-564.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-03-564.png"
+    ],
+    "8555526181967558261": [
+        "HUD Anim/185.HUD Frame Spell/185-02-565.png",
+        "HUD Anim/187.HUD Frame Spell End/187-02-565.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-04-565.png"
+    ],
+    "-2660485132742803934": [
+        "HUD Anim/185.HUD Frame Spell/185-03-566.png",
+        "HUD Anim/187.HUD Frame Spell End/187-01-566.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-05-566.png"
+    ],
+    "-6925190801229493912": [
+        "HUD Anim/185.HUD Frame Spell/185-04-567.png",
+        "HUD Anim/187.HUD Frame Spell End/187-00-567.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-06-567.png"
+    ],
+    "4673897938688079753": [
+        "HUD Anim/185.HUD Frame Spell/185-05-568.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-07-568.png"
+    ],
+    "-7179001545879531906": [
+        "HUD Anim/185.HUD Frame Spell/185-06-569.png",
+        "HUD Anim/186.HUD Frame Spell Idle/186-00-569.png",
+        "HUD Anim/203.HUD Frame Spell Appear/203-08-569.png"
+    ],
+    "-2402357362180817410": [
+        "HUD Anim/191.Witch Health Halo/191-00-472.png",
+        "HUD Anim/192.Witch Health Halo End/192-01-472.png"
+    ],
+    "1791137982110376311": [
+        "HUD Anim/191.Witch Health Halo/191-01-471.png",
+        "HUD Anim/192.Witch Health Halo End/192-00-471.png"
+    ],
+    "-210874349349164127": [
+        "HUD Anim/207.HUD Frame Cloakless Idle/207-00-119.png",
+        "HUD Anim/208.HUD Frame Cloakless/208-03-119.png",
+        "HUD Anim/209.HUD Frame Cloakless Appear/209-05-119.png",
+        "HUD Anim/210.HUD Frame Cloakless End/210-00-119.png"
+    ],
+    "-8396367772392166862": [
+        "HUD Anim/208.HUD Frame Cloakless/208-00-116.png",
+        "HUD Anim/209.HUD Frame Cloakless Appear/209-02-116.png",
+        "HUD Anim/210.HUD Frame Cloakless End/210-02-116.png"
+    ],
+    "9182012348599518010": [
+        "HUD Anim/208.HUD Frame Cloakless/208-01-117.png",
+        "HUD Anim/209.HUD Frame Cloakless Appear/209-03-117.png",
+        "HUD Anim/210.HUD Frame Cloakless End/210-01-117.png"
+    ],
+    "-6522030830546509098": [
+        "HUD Anim/208.HUD Frame Cloakless/208-02-118.png",
+        "HUD Anim/209.HUD Frame Cloakless Appear/209-04-118.png"
+    ],
+    "1637489366948444115": [
+        "HUD Anim/213.Maggot Charm Appear/213-00-259.png",
+        "HUD Anim/214.Maggot Charm Disappear/214-03-259.png"
+    ],
+    "-9010066829847362022": [
+        "HUD Anim/213.Maggot Charm Appear/213-01-261.png",
+        "HUD Anim/214.Maggot Charm Disappear/214-02-261.png"
+    ],
+    "6488280784083765466": [
+        "HUD Anim/213.Maggot Charm Appear/213-02-263.png",
+        "HUD Anim/214.Maggot Charm Disappear/214-01-263.png"
+    ],
+    "-3499203042781832472": [
+        "HUD Anim/213.Maggot Charm Appear/213-04-278.png",
+        "HUD Anim/214.Maggot Charm Disappear/214-00-278.png",
+        "HUD Anim/217.Maggot Charm Full/217-00-278.png"
+    ],
+    "7777641177950099459": [
+        "HUD Anim/224.Blue Idle Level 2/224-00-301.png",
+        "HUD Anim/226.Blue Idle Level 3/226-00-301.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-02-301.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-04-301.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-04-301.png"
+    ],
+    "7064181299393113330": [
+        "HUD Anim/224.Blue Idle Level 2/224-07-308.png",
+        "HUD Anim/224.Blue Idle Level 2/224-71-308.png",
+        "HUD Anim/226.Blue Idle Level 3/226-07-308.png",
+        "HUD Anim/226.Blue Idle Level 3/226-19-308.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-65-308.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-69-308.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-66-308.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-05-308.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-18-308.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-00-308.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-34-308.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-22-308.png"
+    ],
+    "-7064445138200873018": [
+        "HUD Anim/224.Blue Idle Level 2/224-08-309.png",
+        "HUD Anim/224.Blue Idle Level 2/224-72-309.png",
+        "HUD Anim/226.Blue Idle Level 3/226-08-309.png",
+        "HUD Anim/226.Blue Idle Level 3/226-20-309.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-05-309.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-70-309.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-04-309.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-67-309.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-19-309.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-35-309.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-23-309.png"
+    ],
+    "8494059452770870092": [
+        "HUD Anim/227.Blue Idle variant1/227-01-317.png",
+        "HUD Anim/228.Blue Idle variant2/228-03-317.png",
+        "HUD Anim/230.Blue Idle variant3/230-00-317.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-02-317.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-62-317.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-01-317.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-07-317.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-27-317.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-06-317.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-19-317.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-35-317.png"
+    ],
+    "6793589870674615370": [
+        "HUD Anim/227.Blue Idle variant1/227-02-319.png",
+        "HUD Anim/228.Blue Idle variant2/228-05-319.png",
+        "HUD Anim/230.Blue Idle variant3/230-04-319.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-04-319.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-64-319.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-62-319.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-31-319.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-29-319.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-42-319.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-37-319.png"
+    ],
+    "5888820939980422990": [
+        "HUD Anim/228.Blue Idle variant2/228-00-314.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-39-314.png"
+    ],
+    "-3593647157523986772": [
+        "HUD Anim/228.Blue Idle variant2/228-01-315.png",
+        "HUD Anim/230.Blue Idle variant3/230-02-315.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-00-315.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-05-315.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-25-315.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-05-315.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-17-315.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-33-315.png"
+    ],
+    "1054343558450286601": [
+        "HUD Anim/228.Blue Idle variant2/228-02-316.png",
+        "HUD Anim/230.Blue Idle variant3/230-01-316.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-01-316.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-06-316.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-26-316.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-01-316.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-18-316.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-34-316.png"
+    ],
+    "-8309678615804768406": [
+        "HUD Anim/228.Blue Idle variant2/228-04-318.png",
+        "HUD Anim/230.Blue Idle variant3/230-03-318.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-03-318.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-60-318.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-63-318.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-00-318.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-61-318.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-30-318.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-08-318.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-28-318.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-41-318.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-36-318.png"
+    ],
+    "-3380304231253270221": [
+        "HUD Anim/228.Blue Idle variant2/228-06-320.png",
+        "HUD Anim/230.Blue Idle variant3/230-05-320.png",
+        "HUD Anim/231.Blue Idle Level 2 variant1/231-06-320.png",
+        "HUD Anim/232.Blue Idle Level 2 variant2/232-65-320.png",
+        "HUD Anim/233.Blue Idle Level 2 variant3/233-63-320.png",
+        "HUD Anim/234.Blue Idle Level 3 variant1/234-32-320.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-09-320.png",
+        "HUD Anim/235.Blue Idle Level 3 variant2/235-30-320.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-07-320.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-20-320.png",
+        "HUD Anim/236.Blue Idle Level 3 variant3/236-38-320.png"
+    ],
     "-1922674494710724095": [
         "Knight/001.Idle/001-00-873.png",
         "Knight/062.TurnToIdle/062-03-873.png",
